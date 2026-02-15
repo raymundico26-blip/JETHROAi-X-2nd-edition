@@ -1,0 +1,8 @@
+{
+  "name": "JethroAI Automation Studio",
+  "description": "A high-performance developer dashboard for code automation, merging, and AI-driven performance monitoring inspired by BlinkNGv8 and Golang principles.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
